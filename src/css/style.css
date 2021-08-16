@@ -1,0 +1,30 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #000;
+}
+
+strong {
+  font-family: "Montserrat", sans-serif;
+  color: #ad0f2b;
+}
+
+a {
+  color: #ad0f2b;
+}
+
+.atlas {
+  background-color: #ecf1f1de;
+  border-radius: 1%;
+}
+
+.avatar {
+  border-radius: 100%;
+  overflow: hidden;
+  width: 128px;
+  height: auto;
+}
+
+.avatar img {
+  height: 100%;
+  width: 100%;
+}
